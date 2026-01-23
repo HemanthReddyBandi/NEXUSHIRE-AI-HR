@@ -1,0 +1,8 @@
+{
+  "name": "AI Mock Interview Platform",
+  "description": "An advanced platform that uses AI to conduct mock interviews, analyze user performance, and provide detailed feedback. It features dynamic question generation, voice and video analysis, and comprehensive reporting to help users improve their interview skills.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
