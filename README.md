@@ -1,6 +1,7 @@
 # NEXUSHIRE-AI-AI-HR-
 # NEXUSHIRE-AI-AI-HR-
 NEXUS HIRE – AI is an advanced AI-driven interview platform designed to modernize technical hiring and interview preparation.
+<img src="Screenshot 2026-02-24 121455.png"/>
 
 Built using React, TypeScript, Vite, and JavaScript, the application provides:
 
